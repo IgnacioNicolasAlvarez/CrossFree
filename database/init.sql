@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS public.sdf232323
+(
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.sdf232323
+    OWNER to myuser;
